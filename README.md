@@ -10,5 +10,6 @@ From experimentation, it is known that Gabor filters are a reasonable model of s
 K-means clustering is a simple and elegant approach for partitioning a data set into K distinct, non-overlapping clusters. To perform K-means clustering, we must first specify the desired number of clusters K; then the K-means algorithm will assign each observation to exactly one of the K clusters.
 
 Segmented using K-means with Gabor Filters where k=2
+
 ![Segmented Using K-means with Gabor Filters](https://github.com/mrjthedifferent/ImageSegmentationUsingKmeansMeanShift/blob/master/assets/img07/SegmentedWithGabor.png?raw=true)
 
