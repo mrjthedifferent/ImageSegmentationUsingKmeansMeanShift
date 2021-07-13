@@ -11,5 +11,5 @@ K-means clustering is a simple and elegant approach for partitioning a data set 
 
 Segmented using K-means with Gabor Filters where k=2
 
-![Image](https://github.com/mrjthedifferent/ImageSegmentationUsingKmeansMeanShift/blob/master/assets/img07/Img07.png?raw=true)![Segmented Using K-means with Gabor Filters](https://github.com/mrjthedifferent/ImageSegmentationUsingKmeansMeanShift/blob/master/assets/img07/SegmentedWithGabor.png?raw=true)
+![Image](https://github.com/mrjthedifferent/ImageSegmentationUsingKmeansMeanShift/blob/master/assets/img07/Img07.png?raw=true)      ![Segmented Using K-means with Gabor Filters](https://github.com/mrjthedifferent/ImageSegmentationUsingKmeansMeanShift/blob/master/assets/img07/SegmentedWithGabor.png?raw=true)
 
